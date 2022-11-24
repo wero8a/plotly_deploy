@@ -1,0 +1,37 @@
+/* Deliverable4 */
+
+/* Add an image to the jumbotron. */
+.jumbotron {
+
+background-image: url("../images/BacteriaImage.jpg");
+background-size: cover;
+
+}
+
+
+
+/* Add background color or a variety of compatible colors to the webpage. */
+.body {
+
+    background-color:black;
+    background-size: cover;
+}
+
+
+
+/* Use a custom font with contrast for the colors. */
+#title {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    color:aliceblue;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+/* Change the layout of the page. */
+#bubble {
+
+    margin-top: 25px;
+  
+}
+
